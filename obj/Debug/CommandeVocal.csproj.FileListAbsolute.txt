@@ -1,0 +1,14 @@
+C:\Users\Ady\source\repos\CommandeVocal\CommandeVocal\bin\Debug\CommandeVocal.exe.config
+C:\Users\Ady\source\repos\CommandeVocal\CommandeVocal\bin\Debug\CommandeVocal.exe
+C:\Users\Ady\source\repos\CommandeVocal\CommandeVocal\bin\Debug\CommandeVocal.pdb
+C:\Users\Ady\source\repos\CommandeVocal\CommandeVocal\obj\Debug\CommandeVocal.Form1.resources
+C:\Users\Ady\source\repos\CommandeVocal\CommandeVocal\obj\Debug\CommandeVocal.Properties.Resources.resources
+C:\Users\Ady\source\repos\CommandeVocal\CommandeVocal\obj\Debug\CommandeVocal.csproj.GenerateResource.cache
+C:\Users\Ady\source\repos\CommandeVocal\CommandeVocal\obj\Debug\CommandeVocal.csproj.CoreCompileInputs.cache
+C:\Users\Ady\source\repos\CommandeVocal\CommandeVocal\obj\Debug\CommandeVocal.exe
+C:\Users\Ady\source\repos\CommandeVocal\CommandeVocal\obj\Debug\CommandeVocal.pdb
+C:\Users\Ady\source\repos\CommandeVocal\CommandeVocal\bin\Debug\WindowsInput.dll
+C:\Users\Ady\source\repos\CommandeVocal\CommandeVocal\bin\Debug\WindowsInput.xml
+C:\Users\Ady\source\repos\CommandeVocal\CommandeVocal\obj\Debug\CommandeVocal.csproj.CopyComplete
+C:\Users\Ady\source\repos\CommandeVocal\CommandeVocal\bin\Debug\InputManager.dll
+C:\Users\Ady\source\repos\CommandeVocal\CommandeVocal\obj\Debug\CommandeVocal.csproj.AssemblyReference.cache
